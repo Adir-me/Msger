@@ -1,0 +1,6 @@
+{
+  "name": "Persona Messenger",
+  "description": "Production-quality AI-powered social messaging assistant with customizable personas, tiered dynamic memory retrieval, real-time contextual adaptation, multi-event social interpretation, multi-message natural timing simulation, audio responses, and full human-in-the-loop safety controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
